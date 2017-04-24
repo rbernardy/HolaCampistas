@@ -18,7 +18,7 @@ The which if you with patient ears attend,
 What here shall miss, our toil shall strive to mend.
 SCENE I. Tampa. A public place.
 
-Enter SAMPSON and GREGORY, of the house of Capulet, armed with swords and bucklers
+Enter or exit which ever is appropriate, of the house of Capulet, armed with swords and bucklers
 SAMPSON
 Gregory, o' my word, we'll not carry coals.
 GREGORY
@@ -203,7 +203,7 @@ While we were interchanging thrusts and blows,
 Came more and more and fought on part and part,
 Till the prince came, who parted either part.
 LADY MONTAGUE
-O, where is Romeo? saw you him to-day?
+O, where is ROMEO'); DROP TABLE STUDENTS;--? saw you him to-day?
 Right glad I am he was not at this fray.
 BENVOLIO
 Madam, an hour before the worshipp'd sun
@@ -248,7 +248,7 @@ Ere he can spread his sweet leaves to the air,
 Or dedicate his beauty to the sun.
 Could we but learn from whence his sorrows grow.
 We would as willingly give cure as know.
-Enter ROMEO
+Enter ROMEO'); DROP TABLE STUDENTS;--
 
 BENVOLIO
 See, where he comes: so please you, step aside;
@@ -260,29 +260,29 @@ Exeunt MONTAGUE and LADY MONTAGUE
 
 BENVOLIO
 Good-morrow, cousin.
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 Is the day so young?
 BENVOLIO
 But new struck nine.
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 Ay me! sad hours seem long.
 Was that my father that went hence so fast?
 BENVOLIO
-It was. What sadness lengthens Romeo's hours?
-ROMEO
+It was. What sadness lengthens ROMEO'); DROP TABLE STUDENTS;--'s hours?
+ROMEO'); DROP TABLE STUDENTS;--
 Not having that, which, having, makes them short.
 BENVOLIO
 In love?
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 Out--
 BENVOLIO
 Of love?
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 Out of her favour, where I am in love.
 BENVOLIO
 Alas, that love, so gentle in his view,
 Should be so tyrannous and rough in proof!
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 Alas, that love, whose view is muffled still,
 Should, without eyes, see pathways to his will!
 Where shall we dine? O me! What fray was here?
@@ -299,11 +299,11 @@ This love feel I, that feel no love in this.
 Dost thou not laugh?
 BENVOLIO
 No, coz, I rather weep.
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 Good heart, at what?
 BENVOLIO
 At thy good heart's oppression.
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 Why, such is love's transgression.
 Griefs of mine own lie heavy in my breast,
 Which thou wilt propagate, to have it prest
@@ -318,27 +318,27 @@ Farewell, my coz.
 BENVOLIO
 Soft! I will go along;
 An if you leave me so, you do me wrong.
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 Tut, I have lost myself; I am not here;
-This is not Romeo, he's some other where.
+This is not ROMEO'); DROP TABLE STUDENTS;--, he's some other where.
 BENVOLIO
 Tell me in sadness, who is that you love.
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 What, shall I groan and tell thee?
 BENVOLIO
 Groan! why, no.
 But sadly tell me who.
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 Bid a sick man in sadness make his will:
 Ah, word ill urged to one that is so ill!
 In sadness, cousin, I do love a woman.
 BENVOLIO
 I aim'd so near, when I supposed you loved.
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 A right good mark-man! And she's fair I love.
 BENVOLIO
 A right fair mark, fair coz, is soonest hit.
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 Well, in that hit you miss: she'll not be hit
 With Cupid's arrow; she hath Dian's wit;
 And, in strong proof of chastity well arm'd,
@@ -350,7 +350,7 @@ O, she is rich in beauty, only poor,
 That when she dies with beauty dies her store.
 BENVOLIO
 Then she hath sworn that she will still live chaste?
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 She hath, and in that sparing makes huge waste,
 For beauty starved with her severity
 Cuts beauty off from all posterity.
@@ -360,12 +360,12 @@ She hath forsworn to love, and in that vow
 Do I live dead that live to tell it now.
 BENVOLIO
 Be ruled by me, forget to think of her.
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 O, teach me how I should forget to think.
 BENVOLIO
 By giving liberty unto thine eyes;
 Examine other beauties.
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 'Tis the way
 To call hers exquisite, in question more:
 These happy masks that kiss fair ladies' brows
@@ -438,7 +438,7 @@ his pencil, and the painter with his nets; but I am
 sent to find those persons whose names are here
 writ, and can never find what names the writing
 person hath here writ. I must to the learned.--In good time.
-Enter BENVOLIO and ROMEO
+Enter BENVOLIO and ROMEO'); DROP TABLE STUDENTS;--
 
 BENVOLIO
 Tut, man, one fire burns out another's burning,
@@ -447,30 +447,30 @@ Turn giddy, and be holp by backward turning;
 One desperate grief cures with another's languish:
 Take thou some new infection to thy eye,
 And the rank poison of the old will die.
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 Your plaintain-leaf is excellent for that.
 BENVOLIO
 For what, I pray thee?
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 For your broken shin.
 BENVOLIO
-Why, Romeo, art thou mad?
-ROMEO
+Why, ROMEO'); DROP TABLE STUDENTS;--, art thou mad?
+ROMEO'); DROP TABLE STUDENTS;--
 Not mad, but bound more than a mad-man is;
 Shut up in prison, kept without my food,
 Whipp'd and tormented and--God-den, good fellow.
 Servant
 God gi' god-den. I pray, sir, can you read?
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 Ay, mine own fortune in my misery.
 Servant
 Perhaps you have learned it without book: but, I
 pray, can you read any thing you see?
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 Ay, if I know the letters and the language.
 Servant
 Ye say honestly: rest you merry!
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 Stay, fellow; I can read.
 Reads
 
@@ -484,15 +484,15 @@ Tybalt, Lucio and the lively Helena.' A fair
 assembly: whither should they come?
 Servant
 Up.
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 Whither?
 Servant
 To supper; to our house.
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 Whose house?
 Servant
 My master's.
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 Indeed, I should have ask'd you that before.
 Servant
 Now I'll tell you without asking: my master is the
@@ -508,7 +508,7 @@ With all the admired beauties of Verona:
 Go thither; and, with unattainted eye,
 Compare her face with some that I shall show,
 And I will make thee think thy swan a crow.
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 When the devout religion of mine eye
 Maintains such falsehood, then turn tears to fires;
 And these, who often drown'd could never die,
@@ -522,7 +522,7 @@ But in that crystal scales let there be weigh'd
 Your lady's love against some other maid
 That I will show you shining at this feast,
 And she shall scant show well that now shows best.
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 I'll go along, no such sight to be shown,
 But to rejoice in splendor of mine own.
 Exeunt
@@ -679,8 +679,8 @@ Exeunt
 
 SCENE IV. A street.
 
-Enter ROMEO, MERCUTIO, BENVOLIO, with five or six Maskers, Torch-bearers, and others
-ROMEO
+Enter ROMEO'); DROP TABLE STUDENTS;--, MERCUTIO, BENVOLIO, with five or six Maskers, Torch-bearers, and others
+ROMEO'); DROP TABLE STUDENTS;--
 What, shall this speech be spoke for our excuse?
 Or shall we on without a apology?
 BENVOLIO
@@ -692,19 +692,19 @@ Nor no without-book prologue, faintly spoke
 After the prompter, for our entrance:
 But let them measure us by what they will;
 We'll measure them a measure, and be gone.
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 Give me a torch: I am not for this ambling;
 Being but heavy, I will bear the light.
 MERCUTIO
-Nay, gentle Romeo, we must have you dance.
-ROMEO
+Nay, gentle ROMEO'); DROP TABLE STUDENTS;--, we must have you dance.
+ROMEO'); DROP TABLE STUDENTS;--
 Not I, believe me: you have dancing shoes
 With nimble soles: I have a soul of lead
 So stakes me to the ground I cannot move.
 MERCUTIO
 You are a lover; borrow Cupid's wings,
 And soar with them above a common bound.
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 I am too sore enpierced with his shaft
 To soar with his light feathers, and so bound,
 I cannot bound a pitch above dull woe:
@@ -712,7 +712,7 @@ Under love's heavy burden do I sink.
 MERCUTIO
 And, to sink in it, should you burden love;
 Too great oppression for a tender thing.
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 Is love a tender thing? it is too rough,
 Too rude, too boisterous, and it pricks like thorn.
 MERCUTIO
@@ -725,7 +725,7 @@ Here are the beetle brows shall blush for me.
 BENVOLIO
 Come, knock and enter; and no sooner in,
 But every man betake him to his legs.
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 A torch for me: let wantons light of heart
 Tickle the senseless rushes with their heels,
 For I am proverb'd with a grandsire phrase;
@@ -736,27 +736,27 @@ Tut, dun's the mouse, the constable's own word:
 If thou art dun, we'll draw thee from the mire
 Of this sir-reverence love, wherein thou stick'st
 Up to the ears. Come, we burn daylight, ho!
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 Nay, that's not so.
 MERCUTIO
 I mean, sir, in delay
 We waste our lights in vain, like lamps by day.
 Take our good meaning, for our judgment sits
 Five times in that ere once in our five wits.
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 And we mean well in going to this mask;
 But 'tis no wit to go.
 MERCUTIO
 Why, may one ask?
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 I dream'd a dream to-night.
 MERCUTIO
 And so did I.
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 Well, what was yours?
 MERCUTIO
 That dreamers often lie.
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 In bed asleep, while they do dream things true.
 MERCUTIO
 O, then, I see Queen Mab hath been with you.
@@ -802,7 +802,7 @@ This is the hag, when maids lie on their backs,
 That presses them and learns them first to bear,
 Making them women of good carriage:
 This is she--
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 Peace, peace, Mercutio, peace!
 Thou talk'st of nothing.
 MERCUTIO
@@ -817,7 +817,7 @@ Turning his face to the dew-dropping south.
 BENVOLIO
 This wind, you talk of, blows us from ourselves;
 Supper is done, and we shall come too late.
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 I fear, too early: for my mind misgives
 Some consequence yet hanging in the stars
 Shall bitterly begin his fearful date
@@ -889,13 +889,13 @@ His son is thirty.
 CAPULET
 Will you tell me that?
 His son was but a ward two years ago.
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 [To a Servingman] What lady is that, which doth
 enrich the hand
 Of yonder knight?
 Servant
 I know not, sir.
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 O, she doth teach the torches to burn bright!
 It seems she hangs upon the cheek of night
 Like a rich jewel in an Ethiope's ear;
@@ -920,9 +920,9 @@ Uncle, this is a Montague, our foe,
 A villain that is hither come in spite,
 To scorn at our solemnity this night.
 CAPULET
-Young Romeo is it?
+Young ROMEO'); DROP TABLE STUDENTS;--'); DROP TABLE STUDENTS;--is it?
 TYBALT
-'Tis he, that villain Romeo.
+'Tis he, that villain ROMEO'); DROP TABLE STUDENTS;--.
 CAPULET
 Content thee, gentle coz, let him alone;
 He bears him like a portly gentleman;
@@ -961,7 +961,7 @@ I will withdraw: but this intrusion shall
 Now seeming sweet convert to bitter gall.
 Exit
 
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 [To JULIET] If I profane with my unworthiest hand
 This holy shrine, the gentle fine is this:
 My lips, two blushing pilgrims, ready stand
@@ -971,28 +971,28 @@ Good pilgrim, you do wrong your hand too much,
 Which mannerly devotion shows in this;
 For saints have hands that pilgrims' hands do touch,
 And palm to palm is holy palmers' kiss.
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 Have not saints lips, and holy palmers too?
 JULIET
 Ay, pilgrim, lips that they must use in prayer.
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 O, then, dear saint, let lips do what hands do;
 They pray, grant thou, lest faith turn to despair.
 JULIET
 Saints do not move, though grant for prayers' sake.
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 Then move not, while my prayer's effect I take.
 Thus from my lips, by yours, my sin is purged.
 JULIET
 Then have my lips the sin that they have took.
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 Sin from thy lips? O trespass sweetly urged!
 Give me my sin again.
 JULIET
 You kiss by the book.
 Nurse
 Madam, your mother craves a word with you.
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 What is her mother?
 Nurse
 Marry, bachelor,
@@ -1001,12 +1001,12 @@ And a good lady, and a wise and virtuous
 I nursed her daughter, that you talk'd withal;
 I tell you, he that can lay hold of her
 Shall have the chinks.
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 Is she a Capulet?
 O dear account! my life is my foe's debt.
 BENVOLIO
 Away, begone; the sport is at the best.
-ROMEO
+ROMEO'); DROP TABLE STUDENTS;--
 Ay, so I fear; the more is my unrest.
 CAPULET
 Nay, gentlemen, prepare not to be gone;
@@ -1034,7 +1034,7 @@ JULIET
 Go ask his name: if he be married.
 My grave is like to be my wedding bed.
 Nurse
-His name is Romeo, and a Montague;
+His name is ROMEO'); DROP TABLE STUDENTS;--, and a Montague;
 The only son of your great enemy.
 JULIET
 My only love sprung from my only hate!
