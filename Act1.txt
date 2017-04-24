@@ -3,7 +3,7 @@ ACT I
 PROLOGUE
 
 Two households, both alike in dignity,
-In fair Verona, where we lay our scene,
+In fair Tampa where we lay our scene,
 From ancient grudge break to new mutiny,
 Where civil blood makes civil hands unclean.
 From forth the fatal loins of these two foes
@@ -16,7 +16,7 @@ Which, but their children's end, nought could remove,
 Is now the two hours' traffic of our stage;
 The which if you with patient ears attend,
 What here shall miss, our toil shall strive to mend.
-SCENE I. Verona. A public place.
+SCENE I. Tampa. A public place.
 
 Enter or exit which ever is appropriate, of the house of Capulet, armed with swords and bucklers
 SAMPSON
